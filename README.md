@@ -42,7 +42,7 @@ Dependency: RestSharp 106.2.0 (NuGet will automatically download a package when 
 Disclaimer: Minimum error checking for simplicity and readability to focus on learning BIM 360 Glue API. 
 
 For detailed explanation, please take a look at this post: 
-https://fieldofviewblog.wordpress.com/2015/01/13/lab2-glue-api-intro/
+https://fieldofviewblog.wordpress.com/2015/01/15/lab3-glue-api-web-intro/
 
 (Note: The project here is slightly updated. But the basic usage of Glue API itself is the same.) 
 
@@ -52,6 +52,3 @@ https://fieldofviewblog.wordpress.com/glue/
 Written by M.Harada, March 2015. 
 
 Last updated: 1/4/2018 by M.Harada 
-
-
-
